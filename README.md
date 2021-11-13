@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @deepanshu770
-- 👀 I’m interested in Python, Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m @deepanshu770 -
+- React Native Developer
+- FrontEnd - React Native
+- BackEnd - Node.js/Express.js , Python Django/Flask
+- Database - MySql/MongoDB
 
 <!---
 deepanshu770/deepanshu770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
