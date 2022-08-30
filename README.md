@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deepanshu770 -
-- React Native Developer
-- FrontEnd - React Native
-- BackEnd - Node.js/Express.js , Python Django/Flask
-- Database - MySql/MongoDB
+- Full Stack Developer
+- FrontEnd - REact, React Native
+- BackEnd - Node.js, Express.js
+- Database - MySql, MongoDB
 
 <!---
 deepanshu770/deepanshu770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
